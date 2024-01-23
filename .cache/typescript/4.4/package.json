@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "dependencies": {
+    "types-registry": "^0.1.680"
+  },
+  "devDependencies": {
+    "@types/ffmpeg-static": "^3.0.1",
+    "@types/gopd": "^1.0.0",
+    "@types/has-property-descriptors": "^1.0.0",
+    "@types/node": "^20.6.0",
+    "@types/uuid": "^9.0.3"
+  }
+}
